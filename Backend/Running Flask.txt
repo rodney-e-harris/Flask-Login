@@ -1,0 +1,17 @@
+Install the necessary libraries:
+
+pip install flask
+pip install jwt
+pip install pytest
+pip install uuid
+pip install sqlalchemy
+pip install werkzeug
+pip3 install PyJWT==1.7.1
+pip install datetime
+
+
+1. Open your directory in the Windows Terminal in VS code using "cd (your directory for the backend)"
+
+2. Run the backend by typing "python app.py" in the terminal.
+
+3. CTRL + Click the http link generated in the terminal to view the routes.
